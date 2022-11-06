@@ -1,5 +1,8 @@
 training.1600000.processed.noemoticon.csv
 
+Training_Data/*
+Testing_Data/*
+
 *.bundle.*
 lib/
 node_modules/
